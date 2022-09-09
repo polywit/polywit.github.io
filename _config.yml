@@ -3,3 +3,4 @@ description: Bookmark this to keep an eye on my project updates!
 plugins:
   - jekyll-remote-theme
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
+logo: /assets/logo-small.png
