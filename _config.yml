@@ -4,3 +4,8 @@ plugins:
   - jekyll-remote-theme
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 logo: /assets/logo-small.png
+
+platforms:
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/polywit/polywit
