@@ -1,5 +1,6 @@
 title: Polywit
 description: A poly-language execution-based violation-witness validator
+favicon: true
 plugins:
   - jekyll-remote-theme
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
