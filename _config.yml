@@ -1,5 +1,5 @@
-title: Polywits's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: Polywit
+description: A poly-language execution-based violation-witness validator
 plugins:
   - jekyll-remote-theme
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
